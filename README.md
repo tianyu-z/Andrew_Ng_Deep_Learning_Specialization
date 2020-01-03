@@ -1,6 +1,6 @@
 # [Andrew_Ng_Deep_Learning_Specialization](https://www.coursera.org/account/accomplishments/specialization/JUB9WYW882UB)
 Andrew Ng's Deep Learning (including topics like Machine Translation with GRU Attention, Car Detection with YOLO, Face Recognition with Siamese)
-![GitHub Logo](/gradeAchieve.png)
+![GitHub Logo](/gradeAchieved.png)
 
 # Programming Assignements & Projects
 - Course 1: Neural Networks and Deep Learning
