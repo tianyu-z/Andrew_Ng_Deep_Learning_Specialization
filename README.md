@@ -1,7 +1,7 @@
 # [Andrew_Ng_Deep_Learning_Specialization](https://www.coursera.org/account/accomplishments/specialization/JUB9WYW882UB)
 Andrew Ng's Deep Learning (including topics like Machine Translation with GRU Attention, Car Detection with YOLO, Face Recognition with Siamese)
 ![GitHub Logo](/gradeAchieved.png)
-
+![GitHub Logo](/Certification.png)
 # Programming Assignements & Projects
 - Course 1: Neural Networks and Deep Learning
   - Week 2 - PA 1 - [Logistic Regresssion as a Neural Network](https://github.com/tianyu-z/Andrew_Ng_Deep_Learning_Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.ipynb)
