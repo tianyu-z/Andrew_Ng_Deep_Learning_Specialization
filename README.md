@@ -15,7 +15,10 @@ Andrew Ng's Deep Learning (including topics like Machine Translation with GRU At
   - Week 1 - PA 3 - [Initialization](https://github.com/tianyu-z/Andrew_Ng_Deep_Learning_Specialization/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%20Regularization%20and%20Optimization/week5/Initialization/Initialization.ipynb)
   - Week 2 - PA 1 - [Optimization Methods](https://github.com/tianyu-z/Andrew_Ng_Deep_Learning_Specialization/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%20Regularization%20and%20Optimization/week6/Optimization%20methods.ipynb)
   - Week 3 - PA 1 - [Tensorflow Tutorial](https://github.com/tianyu-z/Andrew_Ng_Deep_Learning_Specialization/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%20Regularization%20and%20Optimization/week7/Tensorflow%20Tutorial%20v3a.ipynb)
- 
+ - Course 3: Structuring Machine Learning Projects
+   - No Coding Assignments, but the Quiz problems are from 2 real interesting study cases
+   - Week 1 - Case 1 - [Bird recognition in the city of peacetopia](https://github.com/tianyu-z/Andrew_Ng_Deep_Learning_Specialization/blob/master/Structuring%20Machine%20Learning%20Projects/Quiz/bird-recognition-in-the-city-of-peacetopia-case-study-view-attempt-2020-01-03-02_01_41.png)
+   - Week 2 - Case 2 - [Autonomous driving](https://github.com/tianyu-z/Andrew_Ng_Deep_Learning_Specialization/blob/master/Structuring%20Machine%20Learning%20Projects/Quiz/autonomous-driving-case-study-view-attempt-2020-01-03-02_01_57.png)
  - Course 4: Convolutional Neural Networks
    - Week 1 - PA 1 - [Convolutional Model: Build step by step](https://github.com/tianyu-z/Andrew_Ng_Deep_Learning_Specialization/blob/master/Convolutional%20Neural%20Networks/Convolutional%20Neural%20Networks/week1/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.ipynb)
    - Week 1 - PA 2 - [Convolutional Model: Application](https://github.com/tianyu-z/Andrew_Ng_Deep_Learning_Specialization/blob/master/Convolutional%20Neural%20Networks/Convolutional%20Neural%20Networks/week1/Convolution%20model%20-%20Application%20-%20v1.ipynb)
